@@ -5,3 +5,24 @@ where they can create courses and upload videos and students would be able to wa
 students can search and like vidoes and rate the courses. The project covers Socket programming, Multithreading and real
 time video streaming concepts.
 
+!['Student Login'](/Screenshots/StudentLogin.png "Student Login")
+
+
+
+!['Teacher Login'](/Screenshots/TeacherLogin.png "Teacher Login")
+
+
+
+!['Student Dashboard'](/Screenshots/StudentDash.png)
+
+
+
+!['Course List'](/Screenshots/CourseList.png)
+
+
+
+!['Student Login'](/Screenshots/VideosUploaded.png)
+
+
+
+!['Video Player'](/Screenshots/VideoPlayer.png)
